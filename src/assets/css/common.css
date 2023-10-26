@@ -1,0 +1,25 @@
+:root{
+  --primary-color: #ff9854;
+  --theme-linear-gradient: linear-gradient(90deg, #fa8c1d, #fcaf3f);
+  --gray-bg: #f7f9fb;
+  --gray-bg2: #f2f3f4;
+  --van-primary-color: var(--primary-color) !important;
+}
+
+.top-page{
+  position: relative;
+  z-index: 10;
+
+  height: 100vh;
+
+  background-color: #fff;
+  overflow-y: auto;
+}
+
+.w{
+  padding: 8px 15px;
+}
+.w2{
+  padding: 8px 12px;
+
+}
