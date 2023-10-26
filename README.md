@@ -1,29 +1,16 @@
-# YZJ_trip
+## 途家旅游网主页实现
 
-This template should help get you started developing with Vue 3 in Vite.
+### 效果预览
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+#### 主页
+![效果图](@/assets/img/overview/home)
+#### 选择城市页
+![效果图](@/assets/img/overview/cities)
+#### 选择入住、离店时间
+![效果图](@/assets/img/overview/date)
+#### 房屋详细页面
+![效果图](@/assets/img/overview/detail)
+#### 房东和评价
+![效果图](@/assets/img/overview/landlord)
+#### 高德地图集成
+![效果图](@/assets/img/overview/map)
