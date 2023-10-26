@@ -6,7 +6,7 @@
 
 > 数据是动态向服务器发送请求获取的，对Axios库进行了二次封装，这是考虑到工程的健壮性
 
-> 如果这项工程对你有用，请点击Star鼓励我一下，底部有运行教程
+> 如果这项工程对你有用，请点击Star鼓励我一下，我会继续发布更多开源项目
 
 ### 主页
 ![效果图](/src/assets/img/overview/home.png)
@@ -26,18 +26,3 @@
 ### 高德地图集成
 ![效果图](/src/assets/img/overview/map.png)
 ---
-
-## 克隆到本地
-> git clone https://github.com/bailicangdu/TuJia-trip.git
-
-## 进入文件夹
-> cd TuJia-trip
-
-## 安装依赖
-> npm install
-
-## 开启本地服务器localhost:5173
-> npm run dev
-
-## 发布环境
-> npm run build
